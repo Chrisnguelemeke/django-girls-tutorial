@@ -70,3 +70,10 @@ h1, h2, h3, h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+
+.page-header .top-menu {
+    float: right;
+    margin-top: 1rem;
+    color: white;
+    font-size: 1.5rem;
+}
